@@ -1,0 +1,101 @@
+/*
+Author: Mehrab;
+Theme: Food Order Management
+Version: 2.0
+*/
+
+
+
+
+
+*{
+	margin: 0;
+	padding: 0;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.wrapper
+{
+	
+	padding: 1%;
+	width: 80%;
+	margin: 0 auto;
+}
+
+.text-center
+{
+	text-align: center;
+    
+}
+
+
+
+.clearfix
+{
+	float: none;
+	clear: both;
+}
+
+
+
+/*CSS for manu*/
+
+.menu
+{
+	border-bottom: 1px solid royalblue;
+}
+
+.menu ul
+{
+	list-style-type: none;
+}
+
+.menu ul li
+{
+	display: inline;
+	padding: 1%;
+}
+.menu ul li a
+{
+	text-decoration: none;
+	font-weight: bold;
+
+}
+
+.menu ul li a:hover
+{
+	text-decoration: underline;
+	color: orangered;
+}
+
+
+
+
+
+/*CSS for Main Content*/
+
+.main-content
+{
+
+	background-color: lightblue;
+	padding: 3% 0;
+}
+.col-4
+{
+	width: 20%;
+	background-color: whitesmoke;
+	margin: 1%;
+	padding: 2%;
+	display: inline;
+}
+
+
+
+
+
+/*CSS for Footer*/
+.footer 
+{
+	background-color: #ff4757;
+	color: whitesmoke;
+}
