@@ -1,9 +1,3 @@
-/* 
-    Author: Vijay Thapa;
-    Theme: Restaurant Food Order;
-    version: 1.0;
-*/
-
 /* CSS for All */
 *{
     margin: 0 0;
@@ -84,6 +78,15 @@ fieldset{
     margin: 5%;
     padding: 3%;
     border-radius: 5px;
+}
+
+.error{
+    padding: 2%;
+    color: red;
+}
+.success{
+    padding: 2%;
+    color: green;
 }
 
 
