@@ -6,7 +6,7 @@ This is a project for CSE311(Database Management System). It's a project on "Onl
 ![screencapture-localhost-food-order-2023-02-13-09_01_08](https://user-images.githubusercontent.com/93445792/218361653-38decfd3-8061-4cd4-b204-d5315bf9ba00.png)
 ![screencapture-localhost-food-order-foods-php-2023-02-13-09_02_16](https://user-images.githubusercontent.com/93445792/218361660-7a6691b0-f5ec-4f47-8491-d75556c3ab95.png)
 ![screencapture-localhost-food-order-food-search-php-2023-02-13-09_02_38](https://user-images.githubusercontent.com/93445792/218361683-e61d450d-4201-4a1d-b0fe-4e99bdfe7048.png)
-![screencapture-localhost-food-order-order-php-2023-02-13-09_02_56](https://user-images.githubusercontent.com/93445792/218361701-0a308552-c06c-4d42-827f-e8a65410357a.png)
+![screencapture-localhost-food-order-order-php-2023-02-13-09_14_25](https://user-images.githubusercontent.com/93445792/218362344-347623dc-28cc-4118-b2b7-7307035912c3.png)
 ![screencapture-localhost-food-order-admin-login-php-2023-02-13-09_03_50](https://user-images.githubusercontent.com/93445792/218361706-206fe26a-d254-465b-a96a-14836f7982f3.png)
 ![screencapture-localhost-food-order-admin-2023-02-13-09_04_11](https://user-images.githubusercontent.com/93445792/218361718-09a03da0-041a-44bb-b23e-54c1124d11dc.png)
 ![screencapture-localhost-food-order-admin-manage-admin-php-2023-02-13-09_04_28](https://user-images.githubusercontent.com/93445792/218361732-b87d250b-2e78-46f8-8bc8-eea58b1e300e.png)
